@@ -5,6 +5,9 @@ Meu nome é Douglas Eduardo, sou da cidade de PioIX no Piauí, atualmente curso 
 Sou dev frontend, tenho conhecimento em React, Next, Tailwind, etc.
 
 Alteração do readme pra atividade...
+
+
+O que será revertido
 <!--
 **douglasessousa/douglasessousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
